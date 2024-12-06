@@ -86,7 +86,6 @@ container {
 .logo-style-header {
   color: #2e2f42;
   padding: 24px 0;
-  margin-right: 76px;
 }
 
 .nav-list {
@@ -185,12 +184,12 @@ container {
   align-items: center;
   width: 1128px;
   margin: 0 auto;
-  gap: 8px;
+  gap: 24px;
   padding: 24px 0;
 }
 .advantages-item {
   width: calc((100% - 72px) / 4);
-  gap: 24px;
+  gap: 8px;
 }
 .advantages-title {
   font-weight: 500;
@@ -312,10 +311,13 @@ container {
   padding: 100px 0;
 }
 
-.logo-style-footer {
-  color: #f4f4fd;
+.footer-logo {
   display: inline-block;
   margin-bottom: 16px;
+}
+
+.logo-style-footer {
+  color: #f4f4fd;
 }
 .footer-text {
   font-weight: 400;
