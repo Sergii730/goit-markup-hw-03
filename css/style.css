@@ -80,6 +80,7 @@ container {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 
 .logo-style-header {
@@ -94,8 +95,7 @@ container {
   gap: 40px;
   width: 261px;
 }
-.nav-item {
-}
+
 .nav-item-link {
   display: block;
   padding: 24px 0;
@@ -186,6 +186,7 @@ container {
   width: 1128px;
   margin: 0 auto;
   gap: 8px;
+  padding: 24px 0;
 }
 .advantages-item {
   width: calc((100% - 72px) / 4);
@@ -310,8 +311,7 @@ container {
   background-color: #2e2f42;
   padding: 100px 0;
 }
-.logo {
-}
+
 .logo-style-footer {
   color: #f4f4fd;
   display: inline-block;
